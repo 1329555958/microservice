@@ -1,7 +1,7 @@
 # [spring boot](https://github.com/1329555958/microservice.git)
 本篇是[微服务系列](http://blog.csdn.net/zchunhe/article/details/52345497)第二讲，有关spring boot的知识
 相关示例代码在[github](https://github.com/1329555958/microservice/tree/master/part2)上
-相关视频子[优酷]()上
+相关视频子[优酷](http://v.youku.com/v_show/id_XMTcwMzU2MTc2NA==.html)上
 ## 简介
 ### [官方文档](http://docs.spring.io/spring-boot/docs/1.4.0.RELEASE/reference/htmlsingle)
 ### [查看源码](https://github.com/spring-projects/spring-boot)
