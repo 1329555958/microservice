@@ -1,5 +1,5 @@
 # [spring boot](https://github.com/1329555958/microservice.git)
-本篇是微服务系列第二讲，有关spring boot的知识
+本篇是[微服务系列](http://blog.csdn.net/zchunhe/article/details/52345497)第二讲，有关spring boot的知识
 相关示例代码在[github](https://github.com/1329555958/microservice/tree/master/part2)上
 相关视频子[优酷]()上
 ## 简介
